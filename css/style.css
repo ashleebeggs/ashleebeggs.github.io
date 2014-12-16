@@ -1,0 +1,135 @@
+#blue{
+background-color:#1ab7ea;
+    height: 100px;
+}
+#red{
+ background-color: #fc575e;   
+    height: 100px;
+}
+#green{
+ background-color: #66cc9a;   
+    height: 100px;
+}
+#yellow{
+ background-color: #f7b42c;   
+    height: 100px;
+}
+#orange{
+ background-color: #ff8a3c;   
+    height: 100px;
+}
+#mdblue{
+ background-color: #0074a5;   
+    height: 100px;
+}
+
+#dkblue{
+background-color:#20252a;
+    height: 100px;
+}
+#mdgrey{
+background-color:#334455;
+    height: 100px;
+}
+#ltgrey{
+background-color:#6b7882;
+    height: 100px;
+}
+#xltgrey{
+background-color:#c8c8c8;
+    height: 100px;
+}
+#dkwhite{
+background-color:#f0f1f4;
+    height: 100px;
+}
+#purple{
+background-color:#c09eda;
+    height: 100px;
+}
+#dkpurple{
+background-color:#657daf;
+    height: 100px;
+}
+#emptygrey{
+background-color:#dfe1e5;
+    height: 100px;
+}
+#navbarmed{
+ font-family: "Helvetica";  
+    font-size: 34px;
+    font-weight: 600;
+    
+}
+#menuitem{
+ font-family: "Helvetica";  
+    font-size: 30px;
+    font-weight: 100;
+    
+}
+#tabitem{
+ font-family: "Helvetica";  
+    font-size: 30px;
+    font-weight: 400;
+    
+}
+#emptycopy{
+ font-family: "Helvetica";  
+    font-size: 36px;
+    font-weight: 100;
+    
+}
+#videoovercopy{
+ font-family: "Helvetica";  
+    font-size: 28px;
+    font-weight: 600;
+    
+}
+#videocopyh1{
+ font-family: "Helvetica";  
+    font-size: 36px;
+    font-weight: 400;
+    
+   
+}
+#videocopysub{
+ font-family: "Helvetica";  
+    font-size: 24px;
+    font-weight: 600;
+      
+    
+}
+
+#videocopybody{
+ font-family: "Helvetica";  
+    font-size: 30px;
+    font-weight: 100;
+    
+}
+#timestamp{
+ font-family: "Helvetica";  
+    font-size: 24px;
+    font-weight: 100;
+    
+}
+#listcopy{
+ font-family: "Helvetica";  
+    font-size: 28px;
+    font-weight: 100;
+    
+}
+#lgbutton{
+ font-family: "Helvetica";  
+    font-size: 40px;
+    font-weight: 400; 
+}
+#alerth1{
+ font-family: "Helvetica";  
+    font-size: 36px;
+    font-weight: 600; 
+}
+#alertbody{
+ font-family: "Helvetica";  
+    font-size: 26px;
+    font-weight: 400; 
+}
